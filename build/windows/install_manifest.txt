@@ -1,0 +1,10 @@
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

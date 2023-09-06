@@ -1,0 +1,10 @@
+^C:\USERS\NATHAN SILVA\DESKTOP\CURSO\APP_PERGUNTAS\BUILD\WINDOWS\CMAKEFILES\23F171B94EDC2BBE127CDCB528864B28\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/Nathan Silva/Desktop/Curso/app_perguntas/windows" "-BC:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Nathan Silva/Desktop/Curso/app_perguntas/build/windows/app_perguntas.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
